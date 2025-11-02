@@ -2,7 +2,7 @@
 A terminal-styled portfolio website hosted on AWS S3, showcasing DevOps skills and experience
 
 # Live Demo
-razsarusi.online
+http://razsarusi.online.s3-website-us-east-1.amazonaws.com
 
 # Built With
 - HTML5, CSS3, JavaScript
